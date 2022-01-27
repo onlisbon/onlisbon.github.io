@@ -35,6 +35,8 @@ Each bedroom is equipped with a double bed, an open wardrobe, a dresser with mir
 
 Water, electricity, gas and internet bills are paid for by the Landlord.
 
+---
+
 ## Room Dom Pedro II
 
 16,94 m2 with balcony\
@@ -42,9 +44,8 @@ Water, electricity, gas and internet bills are paid for by the Landlord.
 600 Euro per month, one person.\
 [Contact us](#josé-de-figueiredo)
 
-![Room Dom Pedro II](/assets/img/room1.jpg)
+![Room Dom Pedro II](/assets/img/room1.jpg =200x)
 
-<iframe loading="lazy" src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLisbon&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;hl=en_GB&amp;src=a3M2YW1wNTJsdDc3dm5nZmF2MW02YWhmajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043" style="border-width:0" width="" height="300" frameborder="0" scrolling="no"></iframe>
 ---
 
 {% include googleDrivePlayer.html id=page.driveId %}
