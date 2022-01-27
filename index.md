@@ -8,7 +8,14 @@ no_excerpt: false
 hide_image: false
 hide_description: true
 driveId: 1nDkHZDj5jnjfg1bPbYMbVpha9r0GnWVl/preview
+carousels:
+  - images: 
+    - image: /assets/img/slider/img1.jpg
+    - image: /assets/img/slider/img2.jpg
+    - image: /assets/img/slider/img3.jpg
 ---
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 This apartment is located on the 5th and last floor with a lift, in a beautiful 19th century building. It is very well situated, between the Sé Cathedral and the Miradouro das Portas do Sol, in the Sé-Alfama district of Lisbon, Portugal. It is only a 6-minute walk (500 metres) from Terreiro do Paço metro station.
 
