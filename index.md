@@ -40,5 +40,13 @@ Water, electricity, gas and internet bills are paid for by the Landlord.
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
     src="https://maps.google.com/maps?q=Rua%20do%20Barao%2C%20Lisboa&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
     title="Rua do Barao, Lisboa"
-    aria-label="Rua do Barao, Lisboa">
+    aria-label="Rua do Barao, Lisboa"
+    width="100%" 
+    height="300" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy">
 </iframe>
+
+---
+
