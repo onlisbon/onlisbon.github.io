@@ -35,7 +35,12 @@ Each bedroom is equipped with a double bed, an open wardrobe, a dresser with mir
 
 Water, electricity, gas and internet bills are paid for by the Landlord.
 
+---
+
+
 {% include googleDrivePlayer.html id=page.driveId %}
+
+---
 
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
     src="https://maps.google.com/maps?q=Rua%20do%20Barao%2C%20Lisboa&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
@@ -50,3 +55,15 @@ Water, electricity, gas and internet bills are paid for by the Landlord.
 
 ---
 
+In order to make a reservation, we request a payment of 50% of the first month’s rent, paid by bank transfer. This amount will be deducted from the first month’s rent.
+
+When we sign the contract, a security deposit will be requested, as well as the remaining 50% of the rent. In the case of contracts with a duration of 60 days or more, two months of advance rent will be requested, in addition to the deposit. For all contracts a fee of 30 euros applies for cleaning and laundry after check-out.
+
+Please [contact us](#jose-de-figueiredo) for more information.
+
+---
+
+# José de Figueiredo
+Rua do Barão, Lisboa \
++33 6 87 51 13 85 \
+<jose@onlisbon.com>
