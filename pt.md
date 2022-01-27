@@ -97,7 +97,7 @@ Para efetuar qualquer reserva será solicitada uma transferência bancária de 5
 
 No ato de assinatura do contrato  será solicitada uma caução, além do complemento da primeira renda. No caso de contratos com duração igual ou superior a 60 dias, serão solicitados, além da caução, dois meses de rendas adiantadas.  A todos os contratos se aplica uma taxa de 30 euros referente a limpeza e lavandaria após o check-out.
 
-Não hesite em [contactar-nos](#josé-de-figueiredo)para mais informações. 
+Não hesite em [contactar-nos](#josé-de-figueiredo) para mais informações. 
 
 ---
 
