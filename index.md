@@ -36,6 +36,7 @@ The apartment itself has a surface of 100m2. It has a balcony along the entire f
 Each bedroom is equipped with a double bed, an open wardrobe, a dresser with mirror and a desk. The whole flat is non-smoking.
 
 Water, electricity, gas and internet bills are paid for by the Landlord.
+</div>
 
 ---
 
@@ -88,7 +89,6 @@ When we sign the contract, a security deposit will be requested, as well as the 
 
 Please [contact us](#josé-de-figueiredo) for more information.
 
-</div>
 
 ---
 
