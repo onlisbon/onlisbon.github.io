@@ -45,14 +45,55 @@ Water, electricity, gas and internet bills are paid for by the Landlord.
 
 ![Room Dom Pedro II](/assets/img/room1.jpg)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=ks6amp52lt77vngfav1m6ahfj0%40group.calendar.google.com&ctz=Europe%2FLisbon" style="border: 0" width="100%" height="300" frameborder="0" scrolling="no" loading="lazy"></iframe>
+<iframe 
+    src="https://calendar.google.com/calendar/embed?src=ks6amp52lt77vngfav1m6ahfj0%40group.calendar.google.com&ctz=Europe%2FLisbon&showTitle=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0"
+    style="border: 0" 
+    width="100%"
+    height="500"
+    frameborder="0" 
+    scrolling="no"
+    loading="lazy">
+</iframe>
 
 ---
+## Room Príncipe do Grão Pará
 
-|Room Dom Pedro II  |
-|---|---|
-|<img width=50%/>|<img width=50%/>| 
-|16,94 m2 with balcony<br>38 Euro per day, one person.<br>600 Euro per month, one person.<br>[Contact us](#josé-de-figueiredo) | ![Room Dom Pedro II](/assets/img/room1.jpg) |
+11,36 m2 with balcony\
+35 Euro per day, one person.\
+600 Euro per month, one person.\
+[Contact us](#josé-de-figueiredo)
+
+![ríncipe do Grão Pará](/assets/img/room2.jpg)
+
+<iframe 
+    loading="lazy" 
+    src="https://calendar.google.com/calendar/embed?height=300&wkst=2&ctz=Europe%2FLisbon&src=N2xraG5zbGw0czJmMXJ2cXRmaWJlY3U1ajhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F6BF26&showTitle=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&hl=en_GB" 
+    style="border-width:0" 
+    width="100%" 
+    height="500" 
+    frameborder="0" 
+    scrolling="no">
+</iframe>
+
+---
+## Room Duque de Saxe
+
+12,70 m2\
+30 Euro per day, one person.\
+490 Euro per month, one person.\
+[Contact us](#josé-de-figueiredo)
+
+![Duque de Saxe(/assets/img/room3.jpg)
+
+<iframe 
+    loading="lazy" 
+    src="https://calendar.google.com/calendar/embed?height=300&wkst=2&ctz=Europe%2FLisbon&showTitle=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&hl=en_GB&src=NXBib2JvbTAxZHNpNG1jNDBtNWJiazBtMW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" 
+    style="border-width:0" 
+    width="100%" 
+    height="300" 
+    frameborder="0" 
+    scrolling="no">
+</iframe>
 
 ---
 
