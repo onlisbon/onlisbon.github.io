@@ -47,24 +47,18 @@ Water, electricity, gas and internet bills are paid for by the Landlord.
 600 Euro per month, one person.\
 [Contact us](#josé-de-figueiredo)
 
-![Room Dom Pedro II](/assets/img/room1.jpg "Room Dom Pedro II")
+![Room Dom Pedro II](/assets/img/room1.jpg =50%x)
 
-<iframe loading="lazy" 
-    src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLisbon&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;hl=en_GB&amp;src=a3M2YW1wNTJsdDc3dm5nZmF2MW02YWhmajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043" 
-    style="border-width:0" 
-    width="" 
-    height="300" 
+<iframe loading="lazy"
+    src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLisbon&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;hl=en_GB&amp;src=a3M2YW1wNTJsdDc3dm5nZmF2MW02YWhmajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043"
+    style="border-width:0"
+    width=""
+    height="300"
     frameborder="0" 
     scrolling="no">
 </iframe>
-				
 
 ---
-
----
-
----
-
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
@@ -88,7 +82,6 @@ In order to make a reservation, we request a payment of 50% of the first month�
 When we sign the contract, a security deposit will be requested, as well as the remaining 50% of the rent. In the case of contracts with a duration of 60 days or more, two months of advance rent will be requested, in addition to the deposit. For all contracts a fee of 30 euros applies for cleaning and laundry after check-out.
 
 Please [contact us](#josé-de-figueiredo) for more information.
-
 
 ---
 
