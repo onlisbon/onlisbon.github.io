@@ -49,8 +49,9 @@ Water, electricity, gas and internet bills are paid for by the Landlord.
 
 ---
 
-|Room Dom Pedro II|  |
+|Room Dom Pedro II  |
 |---|---|
+|<img width=50%/>|<img width=50%/>| 
 |16,94 m2 with balcony<br>38 Euro per day, one person.<br>600 Euro per month, one person.<br>[Contact us](#josé-de-figueiredo) | ![Room Dom Pedro II](/assets/img/room1.jpg) |
 
 ---
