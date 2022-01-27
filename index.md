@@ -76,7 +76,7 @@ See the price and availability of each room:
 <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FLisbon&showTitle=0&showNav=1&showTabs=0&showTz=1&showCalendars=0&showPrint=0&hl=en_GB&src=NXBib2JvbTAxZHNpNG1jNDBtNWJiazBtMW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 ---
 
-<iframe src="https://drive.google.com/file/d/1nDkHZDj5jnjfg1bPbYMbVpha9r0GnWVl/preview" width="100%" height="480" allow="autoplay"></iframe>
+{% include googleDrivePlayer.html id=page.driveId %}
 
 ---
 
